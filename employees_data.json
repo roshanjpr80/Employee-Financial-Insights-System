@@ -1,0 +1,19 @@
+[
+    {
+        "name": "green",
+        "department": "d",
+        "experience": 1,
+        "current_salary": 321562.0,
+        "annual_salary": 3858744.0,
+        "post_tax": 282974.56,
+        "growth": [
+            337640.1,
+            354522.11,
+            372248.21,
+            390860.62,
+            410403.65
+        ],
+        "annual_savings": 56594.912000000004,
+        "five_year_savings": 282974.56
+    }
+]
